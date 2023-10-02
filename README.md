@@ -8,6 +8,9 @@ Our team, which is named RJIS Robotics, consists of two students:
 
 • Khallad Mohammed Ahmed Madkhali
 
+![image](https://github.com/RJIS-Robotics/RJIS-RBOTICS-WRO-2023/assets/144898308/c300af6e-cc37-4aa5-8f2c-4b05ed47069c)
+
+
 Our robot contains eight distinctive components with their own functions that contribute to the robot:
 
 HuskyLens camera sensor – Uses color recognition with its camera to identify the colors (blue, red, green).
